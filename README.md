@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on any work!
 - 📫 How to reach me on: https://www.linkedin.com/in/pablo-rodriguez-novoa-4a99671ba/
 
-<!---
 Studying right now videogame design & develpment at ESNE in Spain, I have experience with:
 -Unreal egine 4
 -Unity
@@ -12,4 +11,3 @@ Studying right now videogame design & develpment at ESNE in Spain, I have experi
 -Html, Js
 Mainly focusing on back end development.
 Here you can find some bits of my work, this shall grow so keep an eye!
---->
