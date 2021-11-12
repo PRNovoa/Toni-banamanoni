@@ -9,5 +9,6 @@ Studying right now videogame design & develpment at ESNE in Spain, I have experi
 - Unity
 - C++, C#, Lua
 - Html, Js
+
 Mainly focusing on back end development.
 Here you can find some bits of my work, this shall grow so keep an eye!
