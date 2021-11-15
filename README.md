@@ -2,7 +2,7 @@
 - 👀 I’m interested in videogames
 - 🌱 I’m currently learning many things but mainly focusing on c++
 - 💞️ I’m looking to collaborate on any work!
-- 📫 How to reach me on: https://www.linkedin.com/in/pablo-rodriguez-novoa-4a99671ba/
+- 📫 How to reach me: https://www.linkedin.com/in/pablo-rodriguez-novoa-4a99671ba/
 
 Studying right now videogame design & develpment at ESNE in Spain, I have experience with:
 - Unreal egine 4
